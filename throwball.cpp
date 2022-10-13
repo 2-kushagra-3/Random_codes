@@ -23,7 +23,6 @@ int main()
     for(i=0;i<t;i++)
     {
         pos=a[pos]-1;
-        
     }
     cout<<a[pos];
     return 0;
